@@ -9,7 +9,16 @@ jobs:
 
       - run: npm install
       - run: npm run build
-
+      # TODO: set GITHUB_TOKEN_DEPLOY_KEY
+      #- name: Deploy
+      #  uses: peaceiris/actions-gh-pages@v3
+      #  with:
+      #    deploy_key: ${{ secrets.GITHUB_TOKEN_DEPLOY_KEY }}
+      #    external_repository: Rafiena/rafiena.github.io
+      #    publish_dir: ./build
+      #    publish_branch: main
+      #    user_name: 'github-actions[bot]'
+      #    user_email: 'github-actions[bot]@users
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
