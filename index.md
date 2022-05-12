@@ -1,6 +1,8 @@
 
-## My page
-
+<h3 align="center">
+    <p align="center">guru</p>
+</h3>
+                  
 <ol id="ProjectSubmenu">
     <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
     <li><a class="selected" title="Markdown Basics">Basics</a></li>
