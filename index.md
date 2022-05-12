@@ -1,7 +1,7 @@
 
-<h3 align="center">
+<h align="center">
     <p align="center">guru</p>
-</h3>
+</h>
                   
 <ol id="ProjectSubmenu">
     <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
