@@ -20,12 +20,6 @@
   --site-color-feedback-background: #fff;
 }
 
-html[data-theme='dark'] {
-  --site-color-feedback-background: #f0f8ff;
-  --site-color-favorite-background: #1d1e1e;
-  --site-color-checkbox-checked-bg: hsl(167deg 56% 73% / 10%);
-}
-
 [data-theme='light'] {
   --ifm-color-primary: hsl(var(--site-primary-hue-saturation) 30%);
   --ifm-color-primary-dark: hsl(var(--site-primary-hue-saturation) 26%);
