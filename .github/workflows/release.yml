@@ -1,1 +1,2 @@
-name: node
+name: publish
+job: run 
