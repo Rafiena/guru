@@ -1,4 +1,4 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+import { Html, Head, Main, NextScript, Node } from 'next/document'
 
 export default function Document() {
   const meta = {
