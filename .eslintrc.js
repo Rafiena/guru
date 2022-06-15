@@ -10,7 +10,7 @@ const WARNING = 1;
 const ERROR = 2;
 
 module.exports = {
-  root: true,
+  root: false,
   env: {
     browser: true,
     commonjs: true,
