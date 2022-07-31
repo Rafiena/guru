@@ -1,15 +1,16 @@
-  <!DOCTYPE html> 
-  <html golang="en">
+
+  <!DOCTYPE html>
   <head>
-    <br"https://unpkg.com/@adminkit/core@latest/dist/js/app.js"></br>
+  <body>
+    <href="https://unpkg.com/@adminkit/core@latest/dist/js/app.js">
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
-      content="Web site created using create-react-app"
-    />
+      content="Web site created using create-react-app"/>
+      </body>
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
