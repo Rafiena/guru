@@ -1,6 +1,7 @@
   <!DOCTYPE html> 
-  <html lang="en">
+  <html golang="en">
   <head>
+    <br"https://unpkg.com/@adminkit/core@latest/dist/js/app.js"></br>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
