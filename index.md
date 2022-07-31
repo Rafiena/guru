@@ -1,8 +1,6 @@
 
-  <!DOCTYPE html>
+  <html>
   <head>
-  <body>
-    <href="https://unpkg.com/@adminkit/core@latest/dist/js/app.js">
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
